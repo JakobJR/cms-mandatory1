@@ -2,6 +2,10 @@
   box-sizing: border-box;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body, html {
   margin: 0;
   padding: 0;
@@ -133,6 +137,11 @@ nav .menu-items ul li a:hover::before {
 .section-1 {
   max-width: 1080px;
   margin: auto;
+  padding: 75px 0px 75px 0px;
+}
+.section-1 h2 {
+  font-size: 45px;
+  margin-bottom: 0;
 }
 
 /*# sourceMappingURL=stylesheet.css.map */

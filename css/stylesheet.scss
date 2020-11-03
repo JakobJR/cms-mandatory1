@@ -2,6 +2,10 @@
     box-sizing: border-box;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 body, html {
     margin: 0;
     padding: 0;
@@ -152,4 +156,10 @@ nav {
 .section-1 {
     max-width: 1080px;
     margin: auto;
+    padding: 75px 0px 75px 0px;
+
+    h2 {
+        font-size: 45px;
+        margin-bottom: 0;
+    }
 }

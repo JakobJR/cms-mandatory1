@@ -17,13 +17,13 @@
         </div>
         <div class="menu-items">
             <ul>
-                <li class="hover hover-1"><a href="#">Home</a></li>
-                <li><a href="#">Menu</a></li>
+                <li class="hover hover-1"><a href="#top">Home</a></li>
+                <li><a href="#menu">Menu</a></li>
                 <li><a href="#">About</a></li>
             </ul>
         </div>
     </nav>
-    <div class="nav-placeholder"></div>
+    <div class="nav-placeholder" id="top"></div>
 
     <div class="hero-wrapper">
         <div class="shadow-overlay"></div>
@@ -35,6 +35,9 @@
 
     <div class="section-1">
         <h2>Best pizza in town</h2>
+        <p>We are ready to serve the whole family! We have something for everyone. Take a look at the menu and give us a call!</p>
+        <h2 id="menu">Menu</h2>
+        <p>Fetch the menu cart from products list and list it here</p>
     </div>
     
 </body>
