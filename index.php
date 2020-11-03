@@ -28,8 +28,8 @@
     <div class="hero-wrapper">
         <div class="shadow-overlay"></div>
         <div class="hero-text">
-            <h4>Napples<br>& Chill</h1>
-            <h5>- Order for a night in</h2>
+            <h4>Napples<br>& Chill</h4>
+            <h5>- Order for a night in</h5>
         </div>
     </div>
 
